@@ -29,6 +29,6 @@ The goal of this project is to build a robust image classification model that ca
 
 The dataset used in this project is available on Kaggle. It contains images of apple fruits categorized by their disease status.
 
-**(Optional: Link to the dataset on Kaggle)**
+**(Link to the dataset on Kaggle: https://www.kaggle.com/datasets/ateebnoone/fruits-dataset-for-fruit-disease-classification)**
 
 Ensure you have downloaded the dataset and organized it into appropriate directories for training, validation, and testing. The notebook assumes a directory structure like:
